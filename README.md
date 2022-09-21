@@ -4,6 +4,10 @@
 git clone https://github.com/SergGreeN/test-prom.git
 ```
 
+```
+cd test-prom/
+```
+
 ### Build dependency
 
 ```
